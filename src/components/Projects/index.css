@@ -1,0 +1,16 @@
+.logo {
+  height: 50px;
+  width: 100px;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+li {
+  margin: 5px;
+}
+.fail-image {
+  height: 200px;
+  width: 200px;
+}
